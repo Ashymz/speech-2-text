@@ -136,12 +136,6 @@ class _HomeScreenState extends State<HomeScreen> {
                       fontSize: 16,
                       fontWeight: FontWeight.w500,
                     ))))
-        // IconButton(
-        // ElevatedButton(
-        //   onPressed: _copyText,
-        //   child: Text('Copy'),
-        //   style: ElevatedButton.styleFrom(primary: Colors.blue),
-        // ),
       ])
     ])));
   }
